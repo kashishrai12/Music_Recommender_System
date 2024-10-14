@@ -9,6 +9,6 @@ This project is a **music recommendation system** that uses **Spotify’s API** 
 
 ## 📂 Project Structure  
 ```plaintext
-│── main.py                  # Main script to run the recommender  
-│── requirements.txt         # Required libraries  
-│── README.md                # Documentation (this file)  
+│── Music_Recommender_System.ipynb  # Jupyter Notebook with the code
+│── Requirements.txt                # Required libraries  
+│── README.md                       # Documentation (this file)  
